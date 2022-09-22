@@ -65,7 +65,7 @@ def fun_action(num):
 		
 def main():
 	
-	INDEx()
+	# ~ INDEx()
 	
 	email = open( input("[-] List Name : ")  ,"r",encoding="Latin-1").read().splitlines()
 	ThreadPool = Pool(40)
@@ -73,5 +73,6 @@ def main():
 
 
 if __name__ == "__main__":
+	INDEx()
+
 	main()
-	
