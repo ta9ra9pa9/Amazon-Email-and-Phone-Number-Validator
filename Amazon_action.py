@@ -4,7 +4,7 @@ requests.packages.urllib3.disable_warnings()
 
 class Amazon():
 	def __init__(self,num):
-		self.url  = "https://www.amazon.in/ap/signin"
+		self.url  = "https://www.amazon.in/ap/signin""
 		self.num = num
 		self.redirect = None
 		self.workflowState = None
