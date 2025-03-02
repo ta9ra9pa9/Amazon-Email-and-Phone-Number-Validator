@@ -14,5 +14,4 @@ both in a single script .
 
 Best,
 
-Hacking Tools - 0day. 
-[https://t.me/datanumbersunlimited](https://t.me/+Fw990HuMbikxZjhk)
+Hacking Tools - 0day.  https://t.me/+Fw990HuMbikxZjhk
